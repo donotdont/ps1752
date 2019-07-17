@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="classes/checkout/CheckoutDeliveryStep.php" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      <trans-unit id="d62106dfcdba5cacd1a5f5efe9cefc79">
+        <source> (additional cost of %giftcost% %taxlabel%)</source>
+        <target xml:lang="th" state="needs-translation"> </target>
+        <note>Line: 111</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="classes/checkout/CheckoutPersonalInformationStep.php" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="classes/checkout/ConditionsToApproveFinder.php" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="classes/checkout/DeliveryOptionsFinder.php" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+      
+    </body>
+  </file>
+  <file original="classes/form/CustomerAddressForm.php" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="controllers/front/DiscountController.php" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      <trans-unit id="f4a0d7cb0cd45214c8ca5912c970de13" approved="yes">
+        <source>Tax included</source>
+        <target xml:lang="th" state="translated">รวมภาษีแล้ว</target>
+        <note>Line: 122</note>
+      </trans-unit>
+      <trans-unit id="befcac0f9644a7abee43e69f49252ac4" approved="yes">
+        <source>Tax excluded</source>
+        <target xml:lang="th" state="translated">ยังไม่ได้รวมภาษี</target>
+        <note>Line: 124</note>
+      </trans-unit>
+      <trans-unit id="29aa46cc3d2677c7e0f216910df600ff" approved="yes">
+        <source>Free shipping</source>
+        <target xml:lang="th" state="translated">จัดส่งฟรี</target>
+        <note>Line: 165</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="controllers/front/GuestTrackingController.php" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="modules/ps_shoppingcart/modal.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="src/Adapter/Presenter/Cart/CartPresenter.php" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      <trans-unit id="b24ce0cd392a5b0b8dedc66c25213594" approved="yes">
+        <source>Free</source>
+        <target xml:lang="th" state="translated">ฟรี</target>
+        <note>Line: 372</note>
+      </trans-unit>
+      <trans-unit id="96b0141273eabab320119c467cdcaf17" approved="yes">
+        <source>Total</source>
+        <target xml:lang="th" state="translated">รวมทั้งสิ้น</target>
+        <note>Line: 391</note>
+      </trans-unit>
+      <trans-unit id="104d9898c04874d0fbac36e125fa1369" approved="yes">
+        <source>Discount</source>
+        <target xml:lang="th" state="translated">ส่วนลด</target>
+        <note>Line: 338</note>
+      </trans-unit>
+      <trans-unit id="ea9cf7e47ff33b2be14e6dd07cbcefc6" approved="yes">
+        <source>Shipping</source>
+        <target xml:lang="th" state="translated">จัดส่ง</target>
+        <note>Line: 368</note>
+      </trans-unit>
+      <trans-unit id="719fec04166d6fa75f89cd29ad61fa8c" approved="yes">
+        <source>Taxes</source>
+        <target xml:lang="th" state="translated">ภาษี</target>
+        <note>Line: 382</note>
+      </trans-unit>
+      <trans-unit id="adc852563bca51fb6b10c7905010406d" approved="yes">
+        <source>Total (tax incl.)</source>
+        <target xml:lang="th" state="translated">รวมทั้ั้งหมด (รวมภาษีแล้ว)</target>
+        <note>Line: 399</note>
+      </trans-unit>
+      <trans-unit id="8faf99e02e4d0ccb4dd933404f87a4ea" approved="yes">
+        <source>Total (tax excl.)</source>
+        <target xml:lang="th" state="translated">รวมทั้งหมด (ยังไม่รวมภาษี)</target>
+        <note>Line: 405</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/Adapter/Presenter/Order/OrderLazyArray.php" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      <trans-unit id="ea067eb37801c5aab1a1c685eb97d601" approved="yes">
+        <source>Total paid</source>
+        <target xml:lang="th" state="translated">total paid</target>
+        <note>Line: 243</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="src/Adapter/Presenter/Order/OrderSubtotalLazyArray.php" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      <trans-unit id="7589dfa9a5a899e9701335164c9ab520" approved="yes">
+        <source>Shipping and handling</source>
+        <target xml:lang="th" state="translated">การจัดส่งและบรรจุภัณฑ์</target>
+        <note>Line: 139</note>
+      </trans-unit>
+      <trans-unit id="4b78ac8eb158840e9638a3aeb26c4a9d" approved="yes">
+        <source>Tax</source>
+        <target xml:lang="th" state="translated">ภาษี</target>
+        <note>Line: 168</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/StarterTheme/templates/catalog/_partials/product-discounts.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      <trans-unit id="861c0c6ef832cd96c5fe152f9d610973" approved="yes">
+        <source>You Save</source>
+        <target xml:lang="th" state="translated">คุณประหยัด</target>
+        <note>Context:
+File: themes/StarterTheme/templates/catalog/_partials/product-discounts.tpl:35</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/StarterTheme/templates/checkout/_partials/customer-form.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="themes/StarterTheme/templates/checkout/_partials/steps/addresses.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="themes/StarterTheme/templates/checkout/order-confirmation.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      <trans-unit id="fb077ecba55e5552916bde26d8b9e794" approved="yes">
+        <source>Order confirmation</source>
+        <target xml:lang="th" state="translated">ยืนยันการสั่งซื้อ</target>
+        <note>Context:
+File: themes/StarterTheme/templates/checkout/order-confirmation.tpl:4</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="themes/classic/modules/ps_shoppingcart/modal.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="themes/classic/modules/ps_shoppingcart/ps_shoppingcart.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="themes/classic/templates/catalog/_partials/product-add-to-cart.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="themes/classic/templates/checkout/_partials/address-form.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="themes/classic/templates/checkout/_partials/cart-detailed-product-line.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="themes/classic/templates/checkout/_partials/cart-detailed.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="themes/classic/templates/checkout/_partials/cart-voucher.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+      
+    </body>
+  </file>
+  <file original="themes/classic/templates/checkout/_partials/customer-form.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+      
+      
+    </body>
+  </file>
+  <file original="themes/classic/templates/checkout/_partials/order-confirmation-table.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="themes/classic/templates/checkout/_partials/order-final-summary-table.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+      
+    </body>
+  </file>
+  <file original="themes/classic/templates/checkout/_partials/order-final-summary.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="themes/classic/templates/checkout/_partials/steps/addresses.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="themes/classic/templates/checkout/_partials/steps/payment.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="themes/classic/templates/checkout/_partials/steps/personal-information.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+      
+    </body>
+  </file>
+  <file original="themes/classic/templates/checkout/_partials/steps/shipping.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="themes/classic/templates/checkout/cart.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+    </body>
+  </file>
+  <file original="themes/classic/templates/checkout/order-confirmation.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="themes/classic/templates/customer/discount.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="themes/classic/templates/customer/history.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="themes/classic/templates/customer/order-detail.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      
+      
+      
+      
+      
+      
+      
+    </body>
+  </file>
+  <file original="themes/classic/templates/customer/order-return.tpl" source-language="en" target-language="th" datatype="plaintext">
+    <body>
+      <trans-unit id="694e8d1f2ee056f98ee488bdc4982d73" approved="yes">
+        <source>Quantity</source>
+        <target xml:lang="th" state="translated">จำนวน</target>
+        <note>Line: 40</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
